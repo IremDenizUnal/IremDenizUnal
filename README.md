@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm İrem Deniz 🐦 </h1>
 <h3 align="center">I'm a software engineering student.</h3>
 
-- 💻 I'm currently learning **mobile application development** with **Flutter** and **Swift**.
+- 💻 I'm currently learning **mobile application development** using **Flutter** and **Swift**.
 - 📧 Reach me via: **iremdenizunal@gmail.com**
 
 #
